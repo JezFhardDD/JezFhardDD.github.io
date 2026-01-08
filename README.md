@@ -58,38 +58,12 @@ Hi — I'm JezFhardDD, a software developer and creator who builds across system
 
 See my repositories for examples of my work. A few suggestions to list here:
 
-- Portfolio site — link to portfolio repository or GitHub Pages
-- Game prototypes — Godot projects and demos
-- Utilities and tooling — C/C++ or Python utilities
-
-(Add links to specific repos you want highlighted.)
+- Portfolio site — ..
+- Game prototypes — .;.
+- Utilities and tooling — ..
 
 ## Contact & Links
 
 - GitHub: https://github.com/JezFhardDD
-- Email: (add if you want)
-- Location: (optional — add city/country)
-
----
-
-## About these badges
-
-Badges above are provided using Shields.io. To add or change badges:
-1. Visit https://shields.io
-2. Choose a badge type (static or dynamic) and customize label, color, and logo
-3. Copy the Markdown image link and paste it into your README
-
-Example:
-
-```
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-```
-
-You can also link badges to pages (projects, profiles) by wrapping them in Markdown links.
-
----
-
-If you want, I can:
-- Add links to specific projects and repositories
-- Include a short “About me” paragraph with background, goals, or interests
-- Add social/contact badges (email, LinkedIn, Twitter)
+- Email: ..
+- Location: ..
